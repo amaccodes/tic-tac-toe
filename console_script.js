@@ -173,7 +173,7 @@ const gameBoardd = (function () {
     board.style.margin = '100px'
     board.style.marginBottom = '50px'
     board.style.display = 'flex'
-    board.style.flexShrink = '0'
+    board.style.flexShrink = '0px'
     board.style.flexWrap = 'wrap'
     board.setAttribute('id', 'game-board')
     main.appendChild(board)
