@@ -82,7 +82,6 @@ The project follows a **modular JavaScript** approach:
 
 ## 🔗 Live Demo
 
-> [Check out the live version here]([https://github.com/amaccodes](https://amaccodes.github.io/tic-tac-toe/))  
-> *(Replace with GitHub Pages or Netlify URL)*
+[Check out the live version here](https://amaccodes.github.io/tic-tac-toe/)
 
 ---
