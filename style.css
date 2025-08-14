@@ -1,0 +1,50 @@
+* {
+    outline: solid red;
+}
+
+body, html {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1519972064555-542444e71b54?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Replace with your image */
+    background-size: cover;        /* Make image cover the whole screen */
+    background-position: center;   /* Center the image */
+    background-repeat: no-repeat;  /* Prevent tiling */
+    overflow-x: hidden;
+    overscroll-behavior: none;
+}
+
+main {
+    display: flex;
+    padding: 24px;
+    height: 100vh;
+    justify-content: center;
+}
+
+header > p {
+    font-size: 46px;
+    cursor: pointer;
+}
+
+header {
+    box-sizing: border-box;
+    height: 100px;
+    width: 100vw;
+    padding: 24px;
+    background-color: rgba(222, 184, 135, 0.5); /* 0.0 to 1.0 */
+    color: white;
+    position: sticky;
+    top: 0px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+span, a {
+    font-size: 16px;
+    color: white;
+}
+
