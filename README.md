@@ -45,13 +45,6 @@ The project follows a **modular JavaScript** approach:
 
 ---
 
-## 📸 Screenshot
-
-<!-- Replace with your own image path -->
-![Tic Tac Toe Screenshot](assets/tictactoe-screenshot.png)
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -83,7 +76,7 @@ The project follows a **modular JavaScript** approach:
 ## 👤 Author
 
 **amaccodes**  
-🔗 [GitHub Profile](https://github.com/amaccodes)
+🔗 [GitHub Profile]([https://github.com/amaccodes](https://amaccodes.github.io/tic-tac-toe/))
 
 ---
 
