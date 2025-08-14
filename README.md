@@ -82,7 +82,7 @@ The project follows a **modular JavaScript** approach:
 
 ## 🔗 Live Demo
 
-> [Check out the live version here](https://your-live-demo-url.com)  
+> [Check out the live version here]([https://github.com/amaccodes](https://amaccodes.github.io/tic-tac-toe/))  
 > *(Replace with GitHub Pages or Netlify URL)*
 
 ---
